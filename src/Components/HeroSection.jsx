@@ -56,7 +56,7 @@ const HeroSection = () => {
         </p>
         
         <div className="flex gap-4 justify-center mb-8 animate-fade-in-delay-3">
-          <a href="https://drive.google.com/file/d/1drlyJXA8uDVx00HqCs9m6r6C5-30ID0p/view?usp=sharing" target='blank' className="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg flex items-center gap-2 transition-all transform hover:scale-105">
+          <a href="https://drive.google.com/file/d/1acTGAAobSefcMss1c2VO5973nanpQkKT/view?usp=sharing" target='blank' className="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg flex items-center gap-2 transition-all transform hover:scale-105">
             <FileText size={20} />
             View Resume
           </a>
