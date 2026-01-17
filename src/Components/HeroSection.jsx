@@ -37,7 +37,7 @@ const HeroSection = () => {
   }, []);
 
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-to-br from-gray-900 via-purple-900 to-gray-900">
+    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden bg-linear-to-br from-gray-900 via-purple-900 to-gray-900">
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute w-96 h-96 bg-purple-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob top-0 -left-4"></div>
         <div className="absolute w-96 h-96 bg-blue-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-2000 top-0 right-0"></div>
@@ -56,7 +56,7 @@ const HeroSection = () => {
         </p>
         
         <div className="flex gap-4 justify-center mb-8 animate-fade-in-delay-3">
-          <a href="https://drive.google.com/file/d/1sgukgRf77zs_Nb4kuKR_cWv1U849i0KQ/view?usp=sharing" target='blank' className="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg flex items-center gap-2 transition-all transform hover:scale-105">
+          <a href="https://drive.google.com/file/d/1pteQDeXQrnvBfrwmrum_BcTfiKLwYtSl/view?usp=sharing" target='blank' className="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg flex items-center gap-2 transition-all transform hover:scale-105">
             <FileText size={20} />
             View Resume
           </a>
